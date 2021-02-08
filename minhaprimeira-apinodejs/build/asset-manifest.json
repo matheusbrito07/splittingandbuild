@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0138939d.chunk.css",
+    "main.js": "/static/js/main.f1bf304a.chunk.js",
+    "main.js.map": "/static/js/main.f1bf304a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9537ccd3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9537ccd3.js.map",
+    "static/js/2.2ce9e6ce.chunk.js": "/static/js/2.2ce9e6ce.chunk.js",
+    "static/js/2.2ce9e6ce.chunk.js.map": "/static/js/2.2ce9e6ce.chunk.js.map",
+    "static/css/3.cc84fc96.chunk.css": "/static/css/3.cc84fc96.chunk.css",
+    "static/js/3.8322a566.chunk.js": "/static/js/3.8322a566.chunk.js",
+    "static/js/3.8322a566.chunk.js.map": "/static/js/3.8322a566.chunk.js.map",
+    "static/css/4.a58c644d.chunk.css": "/static/css/4.a58c644d.chunk.css",
+    "static/js/4.90bec287.chunk.js": "/static/js/4.90bec287.chunk.js",
+    "static/js/4.90bec287.chunk.js.map": "/static/js/4.90bec287.chunk.js.map",
+    "static/css/5.c9692f64.chunk.css": "/static/css/5.c9692f64.chunk.css",
+    "static/js/5.35827a34.chunk.js": "/static/js/5.35827a34.chunk.js",
+    "static/js/5.35827a34.chunk.js.map": "/static/js/5.35827a34.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.cc84fc96.chunk.css.map": "/static/css/3.cc84fc96.chunk.css.map",
+    "static/css/4.a58c644d.chunk.css.map": "/static/css/4.a58c644d.chunk.css.map",
+    "static/css/5.c9692f64.chunk.css.map": "/static/css/5.c9692f64.chunk.css.map",
+    "static/css/main.0138939d.chunk.css.map": "/static/css/main.0138939d.chunk.css.map",
+    "static/js/2.2ce9e6ce.chunk.js.LICENSE.txt": "/static/js/2.2ce9e6ce.chunk.js.LICENSE.txt",
+    "static/media/computadorgamer.png": "/static/media/computadorgamer.a9e3370e.png",
+    "static/media/epiclogo.a0e75705.png": "/static/media/epiclogo.a0e75705.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9537ccd3.js",
+    "static/js/2.2ce9e6ce.chunk.js",
+    "static/css/main.0138939d.chunk.css",
+    "static/js/main.f1bf304a.chunk.js"
+  ]
+}

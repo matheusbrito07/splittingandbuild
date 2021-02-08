@@ -1,0 +1,2 @@
+(this.webpackJsonpeletroprojeto=this.webpackJsonpeletroprojeto||[]).push([[3],{36:function(t,e,n){},39:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return o}));var r=n(1);n(36);function o(t){return Object(r.jsx)("main",{children:t.children})}}}]);
+//# sourceMappingURL=3.8322a566.chunk.js.map

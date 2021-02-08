@@ -1,0 +1,2 @@
+(this.webpackJsonpeletroprojeto=this.webpackJsonpeletroprojeto||[]).push([[4],{38:function(t,e,o){},41:function(t,e,o){"use strict";o.r(e),o.d(e,"default",(function(){return c}));var r=o(1);o(38);function c(t){return Object(r.jsx)("div",{class:"footer-container",children:Object(r.jsx)("div",{class:"footer-bw",children:Object(r.jsx)("h1",{class:"footer-h1",children:"@Copyright:2021"})})})}}}]);
+//# sourceMappingURL=4.90bec287.chunk.js.map

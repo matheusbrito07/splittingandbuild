@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/body/body.js"],"names":["Body","props","children"],"mappings":"oMACe,SAASA,EAAMC,GAC1B,OACI,+BACKA,EAAMC","file":"static/js/3.8322a566.chunk.js","sourcesContent":["import \"./body.css\"\r\nexport default function Body (props) {\r\n    return(\r\n        <main>\r\n            {props.children}\r\n        </main>\r\n    )\r\n}"],"sourceRoot":""}
